@@ -1,0 +1,6 @@
+module Pods_MySportApp_MySportAppTests {
+  umbrella header "Pods-MySportApp-MySportAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
